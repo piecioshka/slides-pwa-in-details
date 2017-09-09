@@ -4,8 +4,21 @@
 
 /* -------------------------------------------------------------------------- */
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: bold;
+h3 {
+    color: #f7302f;
+}
+
+h1 small,
+h2 small,
+h3 small,
+h4 small,
+h5 small,
+h6 small {
+    color: gray;
+}
+
+h3 em {
+    color: #f0db4f;
 }
 
 a {
@@ -15,19 +28,6 @@ a {
 
 a:hover {
     text-decoration: none;
-}
-
-h3 {
-    color: #f7302f;
-}
-
-h3 small {
-    color: gray;
-    font-size: smaller;
-}
-
-h3 em {
-    color: #f0db4f;
 }
 
 /* -------------------------------------------------------------------------- */
@@ -61,6 +61,42 @@ h3 em {
 }
 
 .remark-slide-content.front-page .details h2 em {
-    font-style: normal;
     color: #f7302f;
+    font-style: normal;
+}
+
+.remark-slide-content.front-page .details h2 small {
+    color: gray;
+    font-size: inherit;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content.slide-fullscreen-background {
+    background-size: contain;
+}
+
+.size10,
+.size10 .remark-code {
+    font-size: 10px;
+}
+
+.size20,
+.size20 .remark-code {
+    font-size: 20px;
+}
+
+.size30,
+.size30 .remark-code {
+    font-size: 30px;
+}
+
+.size40,
+.size40 .remark-code {
+    font-size: 40px;
+}
+
+.size50,
+.size50 .remark-code {
+    font-size: 50px;
 }

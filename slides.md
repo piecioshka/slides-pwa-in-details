@@ -6,8 +6,8 @@ class: front-page
 .details[
 ![](images/piotr-kowalski.jpg)
 ## Piotr Kowalski
-## <em>"PWA in details" [PL]</em>
-## 2017-09-13
+## <em>"Progressive Web Apps w szczegółach" [PL]</em>
+## <small>2017-09-13</small>
 ## <a href="http://twitter.com/piecioshka">@piecioshka</a>
 ]
 
