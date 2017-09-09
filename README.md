@@ -8,7 +8,7 @@ https://piecioshka.github.io/slides-pwa-in-details/
 
 ## Organization logo
 
-![](./images/warsawjs/logo-transparent-300x300.png)
+![](./images/warsawjs/logo-white-400x400.jpg)
 
 ## Event in social media
 

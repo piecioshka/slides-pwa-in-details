@@ -1,0 +1,66 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+/* -------------------------------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
+
+a {
+    color: #2380e6;
+    background: linear-gradient(to top, currentColor .09em, transparent .09em) repeat-x;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h3 {
+    color: #f7302f;
+}
+
+h3 small {
+    color: gray;
+    font-size: smaller;
+}
+
+h3 em {
+    color: #f0db4f;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.remark-slide-content.front-page {
+    background: url(../images/warsawjs/panoramatail.png) repeat-x #fff 0 90%;
+    background-size: 20%;
+    padding: 70px 40px 0;
+}
+
+.remark-slide-content.front-page .logo {
+    width: 550px;
+    float: left;
+    text-align: center;
+}
+
+.remark-slide-content.front-page .details {
+    float: left;
+    width: calc(100% - 550px);
+    border-left: 3px solid #f7302f;
+    padding: 0 0 10px 50px;
+    margin-top: 5px;
+}
+
+.remark-slide-content.front-page .details h2 {
+    color: #000;
+    font-size: 26px;
+    line-height: 30px;
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.remark-slide-content.front-page .details h2 em {
+    font-style: normal;
+    color: #f7302f;
+}

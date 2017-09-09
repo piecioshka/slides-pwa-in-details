@@ -1,7 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,900');
+@charset "utf-8";
+
+body {
+    font-family: 'Fira Sans', sans-serif;
+}
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Fira Sans', sans-serif;
     margin-top: 0;
 }
 
@@ -59,6 +62,5 @@ mark:after {
 
 .remark-slide-content {
     margin-top: 0;
-    font-family: 'Fira Sans', sans-serif;
     font-size: 26px;
 }

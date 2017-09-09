@@ -1,10 +1,19 @@
-class: middle, center
+class: front-page
 
-# PWA in details
+.logo[
+![](./images/warsawjs/logo-white-400x400.jpg)
+]
+.details[
+![](images/piotr-kowalski.jpg)
+## Piotr Kowalski
+## <em>"PWA in details" [PL]</em>
+## 2017-09-13
+## <a href="http://twitter.com/piecioshka">@piecioshka</a>
+]
 
 ---
 
-## Pomysły
+### Pomysły
 
 * Analiza Service Workers
 * Czy można złamać zabezpieczenia i przechwycić ruch po HTTP?
@@ -18,7 +27,7 @@ class: middle, center
 
 ---
 
-## Pomysły ze spotkania
+### Pomysły ze spotkania
 
 1. guide mapa
 2. wymyślić temat
@@ -31,7 +40,7 @@ class: middle, center
 
 ---
 
-## Lista zadań dodatkowych
+### Lista zadań dodatkowych
 
 - TODO: odnieść do pralni garnitur wraz z koszulą, aby wyprali i wyprasowali
 
