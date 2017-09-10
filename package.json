@@ -1,7 +1,7 @@
 {
     "private": true,
     "name": "slides-pwa-in-details",
-    "description": "TODO",
+    "description": "Slides for WarsawJS Workshop #37: PWA in details",
     "version": "0.0.0",
     "license": "MIT",
     "author": {
@@ -14,6 +14,6 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com:piecioshka/slides-pwa-in-details.git"
     }
 }

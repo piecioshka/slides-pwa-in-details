@@ -7,7 +7,8 @@
     <link rel="icon" href="images/warsawjs/logo-transparent-32x32.png"
           type="image/png" sizes="32x32"/>
 
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,800&amp;subset=latin-ext" rel="stylesheet"/>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Fira+Sans:400,800&amp;subset=latin-ext"/>
 
     <link rel="stylesheet" href="styles/screen.css"/>
     <link rel="stylesheet" href="styles/print.css"/>
@@ -22,11 +23,15 @@
 <body>
     <textarea id="source"></textarea>
     <script src="vendors/remarkjs/remark-0.14.1.min.js"></script>
+    <script src="scripts/player-video.js"></script>
     <script>
-        remark.create({
+        const slideshow = remark.create({
             sourceUrl: 'slides.md',
-            ratio: '16:9'
+            ratio: '16:9',
+            countIncrementalSlides: false
         });
+
+        PlayerVideo.setup(slideshow);
     </script>
 </body>
 </html>

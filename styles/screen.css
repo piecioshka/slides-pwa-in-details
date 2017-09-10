@@ -22,7 +22,7 @@ h3 {
 }
 
 a {
-    color: #2034f4;
+    color: #2380e6;
     text-decoration: none;
 }
 
@@ -40,7 +40,7 @@ iframe {
 
 code {
     background: #444;
-    color: white;
+    color: #fff;
     padding: 2px 15px;
     margin: 3px 0;
     border-radius: 8px;
@@ -48,14 +48,10 @@ code {
 }
 
 mark {
-    border-radius: 8px;
+    border-radius: 5px;
     display: inline-block;
-}
-
-mark:before,
-mark:after {
-    content: '‼️';
-    padding: 0 10px;
+    padding: 0 15px;
+    background: #f0db4f;
 }
 
 /* -------------------------------------------------------------------------- */
