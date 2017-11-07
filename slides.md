@@ -1,4 +1,4 @@
-class: front-page
+class: slide-front-page
 
 .logo[
 ![](./images/warsawjs/logo-white-400x400.jpg)

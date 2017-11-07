@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.remark-slide-content.slide-front-page {
+    background: url(../images/warsawjs/panoramatail.png) repeat-x #fff 0 90%;
+    background-size: 20%;
+    padding: 70px 40px 0;
+}
+
+.remark-slide-content.slide-front-page .logo {
+    width: 550px;
+    float: left;
+    text-align: center;
+}
+
+.remark-slide-content.slide-front-page .details {
+    float: left;
+    width: calc(100% - 550px);
+    border-left: 3px solid #f7302f;
+    padding: 0 0 10px 50px;
+    margin-top: 5px;
+}
+
+.remark-slide-content.slide-front-page .details h2 {
+    color: #000;
+    font-size: 26px;
+    line-height: 30px;
+    padding: 0;
+    margin: 0 0 10px 0;
+}
+
+.remark-slide-content.slide-front-page .details h2 em {
+    color: #f7302f;
+    font-style: normal;
+}
+
+.remark-slide-content.slide-front-page .details h2 small {
+    color: gray;
+    font-size: inherit;
+}
