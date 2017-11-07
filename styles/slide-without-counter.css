@@ -1,5 +1,5 @@
 @charset "utf-8";
 
-.no-after:after {
+.slide-without-counter:after {
     display: none !important;
 }

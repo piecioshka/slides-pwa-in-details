@@ -140,7 +140,7 @@ class: slide-fullscreen-content
 
 ---
 
-class: right, no-after
+class: right, slide-without-counter
 background-image: url(./images/smutna-zaba.jpg)
 
 # Aplikacja mobilne przestają być potrzebne<br/><small>(🎬 no. 6)</small>
@@ -475,7 +475,7 @@ class: slide-fullscreen-content
 
 ---
 
-class: middle, no-after
+class: middle, slide-without-counter
 
 # Thanks.
 
