@@ -1,6 +1,6 @@
 # slides-pwa-in-details
 
-> :clipboard: Slides for WarsawJS Workshop #37: PWA in details
+> :clipboard: Slides for `WarsawJS Meetup #37`
 
 ## Preview
 
