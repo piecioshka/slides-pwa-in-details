@@ -37,3 +37,8 @@
     color: gray;
     font-size: inherit;
 }
+
+.remark-slide-content.slide-front-page .details img {
+    width: 200px;
+    height: 200px;
+}
