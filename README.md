@@ -14,7 +14,6 @@ https://piecioshka.github.io/slides-pwa-in-details/
 
 * Meetup: https://www.meetup.com/WarsawJS/events/243141164/
 * Facebook: https://www.facebook.com/events/186896471851633/
-* Crossweb: https://crossweb.pl/wydarzenia/warsawjs-workshop-10-react-js-dla-poczatkujacych/
 
 ## Sources
 
