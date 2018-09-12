@@ -30,7 +30,9 @@
 
 .remark-slide-content.slide-front-page .details h2 em {
     color: #f7302f;
+    background: none;
     font-style: normal;
+    padding: 0;
 }
 
 .remark-slide-content.slide-front-page .details h2 small {
