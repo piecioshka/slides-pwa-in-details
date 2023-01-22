@@ -2,7 +2,7 @@
 
 > :clipboard: Slides for `WarsawJS Meetup #37`
 
-## Preview
+## Preview 🎉
 
 https://piecioshka.github.io/slides-pwa-in-details/
 
