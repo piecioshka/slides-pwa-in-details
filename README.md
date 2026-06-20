@@ -79,4 +79,4 @@ https://piecioshka.github.io/slides-pwa-in-details/
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2017
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
